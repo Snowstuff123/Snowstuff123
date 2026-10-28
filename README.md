@@ -41,14 +41,14 @@ If you're planning a move to Microsoft 365, running a hybrid environment, or man
 
 ## Tech I Work With
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-00A4EF?style=for-the-badge&logo=windows11&logoColor=white)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business)
+[![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.microsoft.com/en-us/security/business/microsoft-entra)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+[![Exchange](https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/exchange/email)
+[![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration)
+[![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.6)
+[![Hyper-V](https://img.shields.io/badge/Hyper--V-00A4EF?style=for-the-badge&logo=windows11&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-hyper-v?tabs=powershell&pivots=windows-server)
 
 ---
 
